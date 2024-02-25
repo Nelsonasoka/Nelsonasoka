@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nelsonasoka
+- 👋 Hi, I’m @cyber_MFR
 - 👀 I’m interested in CyberSecurity/Networking 
 - 🌱 I’m currently learning Network+
 - 💞️ I’m looking to collaborate on CyberSecurity 
